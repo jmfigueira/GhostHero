@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Inimigos\Inimgo10.cs">
+    <Files>
+      <File FileName="Assets\Inimigos\Inimgo10.cs" Line="9" Column="16" />
+      <File FileName="Assets\Inimigos\EstrelaMata.cs" Line="1" Column="1" />
+      <File FileName="Assets\Inimigos\MoverPisca2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Inimigos\InimigoIN3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
